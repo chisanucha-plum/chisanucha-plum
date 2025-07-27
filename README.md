@@ -4,20 +4,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Krittin, a passionate Software and Knowledge Engineering student 🎓</div>  
-  
-
-- 🔧 I’m currently working on various machine learning projects  
-  
-
-- 🌱 I’m learning about big data, cloud computing, and AI technologies  
-  
-
-- ❓ Ask me about Python, machine learning, and data engineering  
-  
-
-- ⚡ Fun fact: I love solving complex problems with data!  
-  
 
 <br/>  
 
@@ -91,24 +77,18 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Jwizzed" target="_blank">
+<a href="https://github.com/Chisanucha-plum" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/Jwizzed" target="_blank">
+<a href="https://www.linkedin.com/in/chisanuchaplumejai/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/jjkrittin" target="_blank">
+<a href="https://instagram.com/armplu" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/Jwizzed" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Krittin Setdhavanich" target="_blank">
+<a href="https://web.facebook.com/chisanucha.plumejai/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@jwizzed_70966" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
@@ -116,14 +96,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwizzed&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chisanucha-plum&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Jwizzed&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Chisanucha-plum&&style=flat-square" align="center" />
 </div>  
   
 
