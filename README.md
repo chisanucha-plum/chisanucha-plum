@@ -1,7 +1,7 @@
 > "My life's a marathon. I run my own pace, your goals aren't mine."
 
 <div align="center">
-  <img src="https://images8.alphacoders.com/137/thumb-1920-1378050.png" align="center" style="width: 100%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">I'm [YOUR NAME], a passionate [YOUR ROLE] 🎓</div>  
